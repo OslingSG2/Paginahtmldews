@@ -1,0 +1,73 @@
+
+
+body {
+
+
+	color: #000080;
+	font-family: serif;
+    font-size: 28px;
+    background: #FF8F1F;
+    
+}
+
+
+
+
+header {
+    position: relative;
+    left: 350px;
+         width: 560px;
+        border: 20px solid #000080;
+    padding: 10px;
+        text-align: center;
+        font-family: sans-serif;
+        margin: 20px;
+}
+
+
+b{
+    font-family: serif;
+    font-size: 30;
+}
+
+h1 {
+    color: rgb #000080;
+    margin: 5;
+    text-align: center;
+    
+}
+
+
+h2 {
+    color: rgb #000080;
+    margin-top: 10px;
+    text-align: center;
+    
+}
+
+h3{
+    color: #000080;
+    text-align: center;
+}
+
+
+h4{
+    color: rgb #000080;
+    text-align: center;
+
+}
+
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #7b1111;
+    color: #fff;
+    text-align: center;
+    position: unset;
+    width: 98.9%;
+    height: 3;
+}
